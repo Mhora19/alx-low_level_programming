@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - entrance
+ * main - entry point
  * Description: prints all possible combo of 2-digit numbers
  * Return: Always 0 (success)
  */
