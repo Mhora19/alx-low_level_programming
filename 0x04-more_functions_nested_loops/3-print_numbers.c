@@ -3,7 +3,7 @@
 /**
  * prints_numbers - entry point
  *
- * Description: prints the numbers
+ * Description: prints the numbers with _putchar
  *
  * Return: void
  */
